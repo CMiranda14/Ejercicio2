@@ -1,0 +1,64 @@
+.login{
+    width:37.90rem;
+    height:76.10rem;
+    margin:auto;
+
+    background-color:white;
+}
+
+.close{
+    margin-bottom:5rem;
+    margin-left:1rem;
+    Position:relative;
+    z-index: 3;
+    background-color:white;
+ 
+}
+
+.close span{
+    font-size:var(--size17);
+    font-weight: 400;
+    color:var(--colorTextClaro);
+    Position:relative;
+    z-index: 3;
+
+    margin-left:1rem;
+}
+
+.title{
+    margin-top:7rem;
+    margin-left:1rem;
+    Position:relative;
+    z-index: 3;
+    margin-left:1rem;
+    background-color:white;
+    
+}
+
+.title h3{
+    font-size:2rem;
+    font-weight: 800;
+    color:var(--colorBlack);
+    Position:relative;
+    z-index: 3;
+    margin-left:1rem;
+}
+
+.title h2{
+    font-size:4.5rem;
+    font-weight: 800;
+    color:var(--colorBlack);
+    Position:relative;
+    z-index: 3;
+    margin-left:1rem;
+}
+
+
+.fondo{
+    position:absolute;
+    padding-top:7rem;
+    z-index:1;
+    margin:auto;
+    margin-left:1rem;
+}
+
